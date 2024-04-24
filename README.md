@@ -3,3 +3,5 @@ This is my submission for the Pump It Up Kaggle Competition. Using data from Taa
 
 This repo contains my entire process from EDA, data cleaning, feature selection and modelling work for this DrivenData competition, where I currently hold a top 15% score (0.8172). 
 
+![GitHub Logo](Final Score)
+
